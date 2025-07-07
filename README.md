@@ -50,16 +50,13 @@ Personal Task Tracker is a React-based web application designed to help users ma
 
 ## 🔗 Live Demo
 
-Deployed at: [https://your-task-tracker.vercel.app](https://your-task-tracker.vercel.app)
+Deployed at:[(https://task-tracker-sudhir.netlify.app/)]
 
-> *(Update this link after deployment)*
+ 
 
 ## 🖼 Screenshots
-
-> Add screenshots in a `/screenshots` folder and embed them like below:
-
-* ![Login Screen](./screenshots/login.png)
-* ![Dashboard](./screenshots/dashboard.png)
+![image](https://github.com/user-attachments/assets/28e7c5cf-ba69-4c23-9e00-452d782c098c)
+![image](https://github.com/user-attachments/assets/45b2343a-ab63-4f0b-9e6e-0b6ee457c61e)
 
 ## 📁 Project Structure
 
@@ -100,18 +97,17 @@ task-tracker/
 
 ## 📦 Submission Details
 
-* **GitHub Repository**: [https://github.com/your-username/task-tracker](https://github.com/your-username/task-tracker)
-* **Live Demo**: [https://your-task-tracker.vercel.app](https://your-task-tracker.vercel.app)
-* **Email Contact**: [your-email@example.com](mailto:your-email@example.com)
+* **GitHub Repository**: [https://github.com/SUDHIRKUMAR77/Personal-Task-Tracker-]
+* **Live Demo**: [https://task-tracker-sudhir.netlify.app/]
+* **Email Contact**: [sudhirkumar7739366jagd@gmail.com]
 * **Tested On**: Chrome, Firefox, Safari, Mobile View (iOS & Android)
 
 ## 🙋 Questions?
 
-If you have any questions or feedback, feel free to reach out via GitHub issues or email at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, feel free to reach out via GitHub issues or email at [sudhirkumar7739366jagd@gmail.com].
 
 ---
 
 > Built with ❤️ for the xAI Intern Pre-Hire Assignment.
-![image](https://github.com/user-attachments/assets/5e58c35b-a01c-497a-ac60-e7f7e52d285e)
-> ![image](https://github.com/user-attachments/assets/7b1d86da-1302-47a4-bd09-7704fd9ee4c8)
+ 
 
